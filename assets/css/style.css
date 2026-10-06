@@ -392,6 +392,9 @@ header.sticky {
     .g-4, .gy-4 {
         --bs-gutter-y: 1.3rem;
     }
+    .navbar-nav a.btn.btn-success {
+        width: fit-content;
+    }
     .hero-title {
         font-size: 34px;
     }
